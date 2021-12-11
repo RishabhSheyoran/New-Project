@@ -36,13 +36,12 @@ h3{
 }
 
 .middle-container {
-  background-color: #E4F9F5
-
+background-color: #FFF8DC
 
 }
 
 .bottom-container {
-  background-color: #E4F9F5
+  background-color:#FFC0CB	
 
 
 
@@ -66,7 +65,7 @@ h3{
 .code-img{
   width: 15%;
   float: left;
-  margin: 10px;
+
 
 
 
@@ -75,7 +74,7 @@ h3{
 .pod-img{
   width: 15%;
   float: left;
-  
+
 
 
 
